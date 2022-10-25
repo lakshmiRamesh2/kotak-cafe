@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_151861" data-name="Group 151861" transform="translate(-183 -218)">
+    <rect id="Rectangle_25170" data-name="Rectangle 25170" width="32" height="32" rx="8" transform="translate(183 218)" fill="#1876d3"/>
+    <g id="icon_stock" transform="translate(187 222)">
+      <rect id="Rectangle_22897" data-name="Rectangle 22897" width="24" height="24" fill="none"/>
+      <path id="Path_107654" data-name="Path 107654" d="M2.94,17.7A10.027,10.027,0,0,1,9.493.614v10a.527.527,0,0,0,.528.528h10A9.987,9.987,0,0,1,17.1,17.7h0a10.018,10.018,0,0,1-14.164,0ZM17.71,9.71a.528.528,0,0,1-.528-.53V.528A.528.528,0,0,1,17.71,0h1.525a.528.528,0,0,1,.53.528V9.18a.528.528,0,0,1-.53.53Zm-3.063,0a.531.531,0,0,1-.53-.53V2.653a.53.53,0,0,1,.53-.528h1.525a.528.528,0,0,1,.528.528V9.18a.528.528,0,0,1-.528.53Zm-3,0a.528.528,0,0,1-.53-.53V4.662a.528.528,0,0,1,.53-.528h1.525a.527.527,0,0,1,.528.528V9.18a.528.528,0,0,1-.528.53Z" transform="translate(1.987 1.684)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

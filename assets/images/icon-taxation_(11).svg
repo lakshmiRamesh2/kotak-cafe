@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-taxation" transform="translate(-36 -263)">
+    <rect id="Rectangle_25288" data-name="Rectangle 25288" width="24" height="24" transform="translate(36 263)" fill="none"/>
+    <g id="graph" transform="translate(15.855 266)" opacity="0.8">
+      <path id="Path_199071" data-name="Path 199071" d="M178.66,203.25h-1.406a1.267,1.267,0,0,1-1.266-1.266v-8.719A1.267,1.267,0,0,1,177.254,192h1.406a1.267,1.267,0,0,1,1.266,1.266v8.719A1.267,1.267,0,0,1,178.66,203.25Z" transform="translate(-146.656 -185.25)" fill="#fff"/>
+      <path id="Path_199072" data-name="Path 199072" d="M26.66,280.438H25.254a1.267,1.267,0,0,1-1.266-1.266v-5.906A1.267,1.267,0,0,1,25.254,272H26.66a1.267,1.267,0,0,1,1.266,1.266v5.906A1.267,1.267,0,0,1,26.66,280.438Z" transform="translate(0 -262.438)" fill="#fff"/>
+      <path id="Path_199073" data-name="Path 199073" d="M284.323,18h-1.406a1.267,1.267,0,0,1-1.266-1.266V5.062h-.773a.914.914,0,0,1-.694-1.509l.008-.009L283.2.187a.562.562,0,0,1,.838,0l3.008,3.357.008.009a.914.914,0,0,1-.694,1.509h-.773V16.734A1.267,1.267,0,0,1,284.323,18Z" transform="translate(-246.976 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

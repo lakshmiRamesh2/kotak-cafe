@@ -1,0 +1,10 @@
+<svg id="forum_black_24dp" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.829" cy="0.923" r="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#49cded"/>
+      <stop offset="1" stop-color="#0993b5"/>
+    </radialGradient>
+  </defs>
+  <path id="Path_199075" data-name="Path 199075" d="M0,0H21V21H0Z" fill="none"/>
+  <path id="Path_199076" data-name="Path 199076" d="M17.032,5.34H16.2v6.681a.838.838,0,0,1-.835.835H5.34v.835a1.675,1.675,0,0,0,1.67,1.67h8.351L18.7,18.7V7.011A1.675,1.675,0,0,0,17.032,5.34ZM14.527,9.516V3.67A1.675,1.675,0,0,0,12.857,2H3.67A1.675,1.675,0,0,0,2,3.67V14.527l3.34-3.34h7.516A1.675,1.675,0,0,0,14.527,9.516Z" transform="translate(0.149 0.149)" fill="url(#radial-gradient)"/>
+</svg>

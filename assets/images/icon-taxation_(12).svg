@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon-taxation" transform="translate(-36 -263)">
+    <rect id="Rectangle_25288" data-name="Rectangle 25288" width="24" height="24" transform="translate(36 263)" fill="none"/>
+    <path id="receipt" d="M5.125,2A2.125,2.125,0,0,0,3,4.125V19l3.719-2.125L10.438,19l3.719-2.125L17.875,19V4.125A2.125,2.125,0,0,0,15.75,2ZM7.781,5.188A1.594,1.594,0,1,0,9.375,6.781,1.594,1.594,0,0,0,7.781,5.188Zm6.6.311a1.062,1.062,0,0,0-1.5,0L6.5,11.874a1.062,1.062,0,0,0,1.5,1.5L14.376,7A1.063,1.063,0,0,0,14.376,5.5Zm-1.283,5a1.594,1.594,0,1,0,1.594,1.594A1.594,1.594,0,0,0,13.094,10.5Z" transform="translate(37.563 264.5)" fill="#fff" fill-rule="evenodd" opacity="0.8"/>
+  </g>
+</svg>
