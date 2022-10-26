@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kotak_cafe/community_of_investors.dart';
+import 'package:kotak_cafe/kotak_home.dart';
 
 import 'home_screen.dart';
 
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: HomeScreen()
+      home: KotakHome()
     );
   }
 }
