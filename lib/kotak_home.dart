@@ -622,9 +622,8 @@ class _KotakHomeState extends State<KotakHome> {
                             'Explore Now',
                             style: GoogleFonts.getFont(
                               'Roboto',
-                              color:
-                              FlutterTheme.of(context).secondaryColor,
-                              fontWeight: FontWeight.w500,
+                              color:FlutterTheme.of(context).secondaryColor,
+                              fontWeight:FontWeight.w500,
                               fontSize: 14,
                             ),
                           ),
